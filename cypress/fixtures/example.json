@@ -1,0 +1,14 @@
+{
+  "name": "QA tester",
+  "email": "qa-tester-1760562472318@test.com",
+  "user": "qa-tester-1760562472318@test.com",
+  "subject": "Support",
+  "password": "12345",
+  "numbercard": "1234 1234 1234 1234",
+  "namecard": "QA tester",
+  "cvc": "123",
+  "expirationmonth": "08",
+  "expirationyear": "2030",
+  "emailexclusao": "qa-tester-deletar-1760562472318@test.com",
+  "nameexclusao": "QA tester Deletar conta"
+}
