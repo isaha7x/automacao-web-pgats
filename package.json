@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "open:reporter": "xdg-open cypress/reports/mochawesome/index.html",
-    "test-trabalho-final": "cypress run --spec \"cypress/e2e/automacao-web-trabalho-final.cy.js\""
+    "test-trabalho-final": "cypress run --spec 'cypress/e2e/automation-exercise-trabalho-final.cy.js'"
+
   },
   "keywords": [],
   "author": "",
